@@ -1,4 +1,4 @@
- Olá! Me chamo Leonardo Barbosa e sou um Front-end Developer!
+   Olá! Me chamo Leonardo Barbosa e sou um Front-end Developer!
 
 <div align="center">
   <a href="https://github.com/leonardojpereira">
