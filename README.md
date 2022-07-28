@@ -2,8 +2,6 @@
    ![download](https://user-images.githubusercontent.com/87662269/181603959-0e867ae6-cba0-48d7-8abb-b4b913a84b28.png)
 
    
-   Olá! Me chamo Leonardo Barbosa e sou um Front-end Developer!
-
 <div align="center">
   <a href="https://github.com/leonardojpereira">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=leonardojpereira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
