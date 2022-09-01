@@ -1,7 +1,7 @@
    
    ![download](https://user-images.githubusercontent.com/87662269/181603959-0e867ae6-cba0-48d7-8abb-b4b913a84b28.png)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:#5A5558,100:fbc7d4&height=210&section=header&text=Leonardo%20Barbosa&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Desenvolvedor%20Front%20End&descAlignY=50">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:5A5558,100:fbc7d4&height=210&section=header&text=Leonardo%20Barbosa&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Desenvolvedor%20Front%20End&descAlignY=50">
    
 <div align="center">
   <a href="https://github.com/leonardojpereira">
